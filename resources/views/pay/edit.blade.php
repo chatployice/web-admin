@@ -27,7 +27,6 @@
 
                                                 </td>
                                                 <td>{{ $request->price }}</td>
-                                                "asdasd"
                                                 <td>
                                                     <input type="text" class="form-control" name="comment" value="{{$pays->comment}}"> 
                                                 </td>
